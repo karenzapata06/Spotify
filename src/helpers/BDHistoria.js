@@ -1,12 +1,23 @@
 let artistas=[
     {foto:'https://firebasestorage.googleapis.com/v0/b/movilesll-75a48.appspot.com/o/mana.jpg?alt=media&token=7cb87520-27ec-497b-853d-83b56575cf35',historia:'Los orígenes de Maná se remontan a un grupo musical llamado Sombrero Verde, cuyos integrantes Fher Olvera, como voz, Gustavo Orozco, a la guitarra eléctrica, y los hermanos Calleros, Juan, al bajo, Ulises, a la guitarra eléctrica y Abraham, a la batería, eran originarios de Guadalajara. En un inicio tocaban en bares.'},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+
+    {foto:'https://firebasestorage.googleapis.com/v0/b/movilesll-75a48.appspot.com/o/kanyGarcia.jpg?alt=media&token=b7cc1c6b-88f9-4e18-94e8-94d11bfd6b38',historia:'Kany comenzó desde pequeña a estudiar música clásica, violoncelo, teoría, solfeo y coros. A los 12 años de edad entró en la "Escuela Libre de Música", donde también aprendió guitarra, y continuó sus estudios de composición y arreglo en el Conservatorio de Música de Puerto Rico.'},
+
+    {foto:'https://firebasestorage.googleapis.com/v0/b/movilesll-75a48.appspot.com/o/extreme.webp?alt=media&token=4d740e15-d190-4335-8afb-81f5ab112c72',historia:'Extreme es una banda de rock estadounidense que logró popularidad a finales de los 80 y principios de los 90. Algunas de las influencias de Extreme son Queen, Led Zeppelin y Van Halen (Gary Cherone se unió a Van Halen por un tiempo para luego retirarse). Extreme clasifica su música como "Funky Metal.'},
+
+    {foto:'https://firebasestorage.googleapis.com/v0/b/movilesll-75a48.appspot.com/o/eltonJhon.jpg?alt=media&token=0e505446-b8d6-405c-8d79-78f5afb4c936',historia:'Hijo de un oficial del Ejército, Elton John fue un músico precoz. A los cuatro años comenzó a estudiar piano; a los 11 fue becado por la Real Academia de Música de Londres, donde estudió de 1959 a 1963. A los 16 años abandonó la escuela y empezó a tocar por las noches el piano en un hotel.'},
+
+    {foto:'https://firebasestorage.googleapis.com/v0/b/movilesll-75a48.appspot.com/o/Guns%20N%20Roses.jpg?alt=media&token=ebd8d964-ce86-4f4d-9e9c-2ac4896570f7',historia:'Se formaron en Los Angeles en 1985, cuando se juntaron dos guitarristas Slash e Izzy Stradlin, el bajista Duff McKagan, el batería Steven Adler y el vocalista Axl Rose. Con esta composición, el grupo lanza en 1987 su primer álbum, Appetite for Destruction, bajo el sello Geffen Records'},
+
+    {foto:'https://firebasestorage.googleapis.com/v0/b/movilesll-75a48.appspot.com/o/eminem.jpg?alt=media&token=840d2175-e14e-42ee-a9bf-d3ca981de76b',historia:'Marshall empezó a rapear durante sus años escolares, animado por su inseparable Ronnie. A los catorce años abandonó la escuela e hizo sus pinitos con bandas locales como Basement Productions, The New Jacks o D12. Estrenó su nombre de guerra, Eminem, en el disco Infinite, publicado en 1996 por un sello independiente.'},
+
+    {foto:'https://firebasestorage.googleapis.com/v0/b/movilesll-75a48.appspot.com/o/eminem.jpg?alt=media&token=840d2175-e14e-42ee-a9bf-d3ca981de76b',historia:'Marshall empezó a rapear durante sus años escolares, animado por su inseparable Ronnie. A los catorce años abandonó la escuela e hizo sus pinitos con bandas locales como Basement Productions, The New Jacks o D12. Estrenó su nombre de guerra, Eminem, en el disco Infinite, publicado en 1996 por un sello independiente.'},
+
+    {foto:'https://firebasestorage.googleapis.com/v0/b/movilesll-75a48.appspot.com/o/ladygaga.webp?alt=media&token=d76463c0-acb8-4f81-9b54-af8350e7a4ff',historia:'Nacida y criada en la ciudad de Nueva York, estudió en la escuela Convent of the Sacred Heart y asistió por un tiempo breve a la Tisch School of the Arts, perteneciente a la Universidad de Nueva York, hasta que abandonó sus estudios para enfocarse en su carrera musical.'},
+
+    {foto:'https://firebasestorage.googleapis.com/v0/b/movilesll-75a48.appspot.com/o/Adele.webp?alt=media&token=d8fa18c1-f64f-4ae2-ace5-9176f3e50677',historia:'Es hija de Penny Adkins y Marc Evans, su madre inglesa y su padre galés. Adele fue a la escuela en a BRIT School de Croydon, Londres, donde estudió Artes escénicas y tecnología. Adele fue compañera de clase de otras cantantes, como Leona Lewis y Jessie J, y mientras estudiaba estuvo interesada en ser scout de talentos.'},
+
+    {foto:'https://firebasestorage.googleapis.com/v0/b/movilesll-75a48.appspot.com/o/philCollins.jpeg?alt=media&token=9036ebe4-b233-4b65-acbe-bd6d7fd5174e',historia:'Philip David Charles Collins (Chiswick, Middlesex, Inglaterra; 30 de enero de 1951),​conocido por su nombre artístico Phil Collins, es un cantante, baterista, compositor, productor y actor británico, y uno de los artistas de mayor éxito de la música rock. Fue nombrado teniente de la Real Orden Victoriana (LVO).'},
+
+    {foto:'https://firebasestorage.googleapis.com/v0/b/movilesll-75a48.appspot.com/o/Rihanna.webp?alt=media&token=7e2e5361-d3fd-43f9-82fb-b22b97707c1b',historia:'Comenzó su carrera en 2003 cuando hizo una audición para el productor musical Evan Rogers. Más tarde firmaría un contrato de seis álbumes con Def Jam. En 2005 lanzó su álbum debut Music of the Sun, seguido por su segundo material discográfico A Girl Like Me.'}
 ]
